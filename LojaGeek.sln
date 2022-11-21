@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LojaGeek", "LojaGeek\LojaGeek.csproj", "{E11569FC-9451-48A6-BB44-2DBBF03A0A17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaGeek.API", "LojaGeek.API\LojaGeek.API.csproj", "{7F99ACFA-90C7-49D8-B492-210824CD3F72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E11569FC-9451-48A6-BB44-2DBBF03A0A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11569FC-9451-48A6-BB44-2DBBF03A0A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E11569FC-9451-48A6-BB44-2DBBF03A0A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11569FC-9451-48A6-BB44-2DBBF03A0A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F99ACFA-90C7-49D8-B492-210824CD3F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F99ACFA-90C7-49D8-B492-210824CD3F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F99ACFA-90C7-49D8-B492-210824CD3F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F99ACFA-90C7-49D8-B492-210824CD3F72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FA633FB-7F2C-41AB-8CBB-084787ACB691}
+	EndGlobalSection
+EndGlobal
